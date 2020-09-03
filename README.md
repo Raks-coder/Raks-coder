@@ -11,5 +11,5 @@
 - 💬 Ask me about Flask, Java , Cpp STL and Bootstrap
 - 📫 How to reach me: Anyone who needs to collab or needs any help can mail me on rakshitdmi@gmail.com
 
-
+![Rakshit's Github Stats](https://github-readme-stats.vercel.app/api?username=Raks-coder&count_private=true&show_icons=true&theme=radical)
 
