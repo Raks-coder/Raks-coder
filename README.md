@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+
 <!--
 **Raks-coder/Raks-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Spring Boot , Hibernate , Docker , Kubernetes and as always on Data Science
+- 🌱 I’m currently learning PhotoShop and Spring
+- 👯 I’m looking to collaborate on any public repository in my profile or any GPT-3 related projects
+- 💬 Ask me about Flask, Java , Cpp STL and Bootstrap
+- 📫 How to reach me: Anyone who needs to collab or needs any help can mail me on rakshitdmi@gmail.com
+
+
+
