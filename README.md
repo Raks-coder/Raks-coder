@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on Java-Development and Scripting
-- 🌱 I’m currently learning AWS and Docker
+- 🌱 I’m currently learning Spring Boot, AWS and Angular
 - 👯 I’m looking to collaborate on any public repository in my profile or any GPT-3 related projects
 - 💬 Ask me about Flask, Java , Cpp STL and Bootstrap
 - 📫 How to reach me: You can message me on my linkedin -> https://www.linkedin.com/in/rakshit-malhotra-849620169/
