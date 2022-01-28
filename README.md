@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Java-Development and Scripting
 - 🌱 I’m currently learning Spring-boot and a lot of different things related to dev/design
-- :man_technologist: Checkout my website https://www.rakshitmalhotra.netlify.app
+- :man_technologist: Checkout my website http://www.rakshitmalhotra.netlify.app
 - 👯 I’m looking to collaborate on any public repository in my profile
 - 💬 Ask me about Flask, Java , JavaScript and Bootstrap
 - 📫 How to reach me: You can message me on my linkedin -> https://www.linkedin.com/in/rakshit-malhotra-849620169/
